@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-47
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sketchyleftalt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-72,
+				-59
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sketchydownalt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				99
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sketchyupalt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-92,
+				-76
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sketchyrightalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sketchyidlealt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "rip",
+			"indices": [],
+			"name": "sketchyidlealt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry_sketch",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "sket",
+	"flip_x": false,
+	"healthbar_colors": [
+		81,
+	    81,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

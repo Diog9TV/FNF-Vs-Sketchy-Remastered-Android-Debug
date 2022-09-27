@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				103,
+				-35
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "crumpleleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-74
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "crumpledown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-47,
+				111
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "crumpleup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-86,
+				-23
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "crumpleright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "crumpleidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "rip",
+			"indices": [],
+			"name": "sketchyrip"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crumple",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "sket-aguwitado",
+	"flip_x": false,
+	"healthbar_colors": [
+		81,
+	    81,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

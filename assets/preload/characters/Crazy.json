@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sketchyRNTPhase"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				92
+			],
+			"anim": "Se ardio",
+			"fps": 24,
+			"name": "sketchyRNTPhase",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Crazy",
+	"position": [
+		-80,
+		110
+	],
+	"healthicon": "sket-aguwitado",
+	"flip_x": false,
+	"healthbar_colors": [
+		81,
+	    81,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
