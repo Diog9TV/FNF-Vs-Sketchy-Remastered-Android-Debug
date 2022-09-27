@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"line-art",
+			"sket",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"sketched-out",
+			"sket",
+			[
+				160,
+				160,
+				160
+			]
+		],
+		[
+			"rip-and-tear",
+			"sket-aguwitado",
+			[
+				97,
+				97,
+				97
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"sketchy",
+		"bf",
+		"gf"
+	],
+	"storyName": "SUMMY SKETCHES",
+	"weekName": "Skechyweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
