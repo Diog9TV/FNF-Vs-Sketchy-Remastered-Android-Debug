@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.8,
+		"stage": "stageSket",
+		"player1": "bf-Sketch",
+		"player2": "Sketchy",
+		"player3": null,
+		"events": [
+			[
+				46545.4545454546,
+				[
+					[
+						"Change Character",
+						"1",
+						"SketchyAngry"
+					]
+				]
+			],
+			[
+				98454.5454545455,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				98727.2727272728,
+				[
+					[
+						"Change Character",
+						"1",
+						"Crazy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-Sketch",
+		"bpm": 165,
+		"arrowSkin": "NOTE_S",
+		"needsVoices": true,
+		"song": "sketched out"
+	}
+}
