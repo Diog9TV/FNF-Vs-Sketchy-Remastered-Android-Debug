@@ -1,0 +1,11 @@
+{
+	
+	"image": "campaign_menu_UI_characters",
+	"position": [
+		50,
+		-70
+	],
+	"scale": 0.5,
+	"idle_anim": "sketchyStory",
+	"confirm_anim": "sketchyStory"
+}
